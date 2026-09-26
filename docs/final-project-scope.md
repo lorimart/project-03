@@ -15,7 +15,7 @@ To satisfy the requirements for Project 03, the following deliverables will be c
 *   `index.html`: The fully coded homepage.
 *   `about.html`: The fully coded about and contact page.
 *   `style.css`: The central external stylesheet styling both pages consistently.
-*   `docs/scope.md`: This comprehensive Project Scope Statement.
+*   `docs/final-project-scope.md`: This comprehensive Project Scope Statement.
 *   `docs/plan.md`: A project plan containing a TAME risk analysis and a Work Breakdown Structure (WBS) schedule.
 *   `docs/retrospective.md`: A post-project process reflection.
 
@@ -34,8 +34,22 @@ The project will be considered successful and complete when it meets the followi
 *   The CSS file successfully links to both pages, ensuring a uniform visual theme without broken layouts.
 *   The website is fully functional when hosted via GitHub Pages, with all internal navigation links operating correctly.
 *   All three required documentation files exist within the `docs/` folder.
+*   User Experience (UX) Baseline: A standard user can intuitively find critical business information (operational hours, physical location, and contact form) within a single click from any location on the site.
+*   Map Asset Definition: The about.html page must feature a clearly styled, embedded frame container acting as a visual map placeholder to simulate real-world navigation utility.
 
 ## 6. Project Constraints
 *   **Time:** The project must be entirely completed, tested, and submitted by the final course deadline at the end of the semester(Thursday October 1, 2026 11:59 PM).
 *   **Technical:** The site must be built strictly using plain HTML and CSS without relying on external frontend frameworks or backend server languages.
 *   **Scope:** The site will be limited to two pages to comply with project resource guidelines.
+
+## 7. Peer Feedback & Adjustments
+I received valuable critiques from two peers:
+*  **UX Criteria Integration from Sidh Bhardwaj:** Feed back indicated that acceptance criteria leaned heavily on technical function. I have added a definitive user experience (UX) criteria to guarantee that key information like operating hours and location are discoverable within a single click.
+*  **Map Asset Specificity from Tate Neuman:** Feedback suggested detailing the scope of the map placeholder. I updated the description and desired results to confirm the implementation of a visually styled inline frame container to mock live navigation capabilities.
+
+## 8. Project Change Log
+| Date | Change Description | Reason for Change | Status |
+| :--- | :--- | :--- | :--- |
+| 2026-09-24 | Added UX Discoverability metric to Section 5. | Incorporating peer review feedback from S. Bhardwaj to balance technical and user metrics. | Approved |
+| 2026-09-25 | Detailed map placeholder specifications in Section 2 & 5. | Incorporating peer review feedback from T. Neuman to solidify visual scope expectations. | Approved |
+| 2026-09-26 | Confirmed final deadline adjustments to Oct 1, 2026. | Aligning constraints with current course timeline updates. | Approved |
