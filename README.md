@@ -24,6 +24,6 @@ The project files are organized cleanly within this repository to meet all submi
   * style.css - The single, external stylesheet governing layout, responsive typography, and consistent visual styling for both web pages.
 * **Documentation (docs/)** 
 
-  * [docs/scope.md](./docs/final-project-scope.md) - The Project Scope Statement defining boundaries and project exclusions.
+  * [docs/final-project-scope.md](./docs/final-project-scope.md) - The Project Scope Statement defining boundaries and project exclusions.
   * [docs/plan.md](./docs/plan.md) - The Work Breakdown Structure (WBS) schedule and TAME risk analysis framework.
   * [docs/retrospective.md](./docs/retrospective.md) - A post-project reflection analyzing process efficiency.
