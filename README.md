@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for **The Mana Potion Lounge** website
 
 ### Project Links
 
-* **Live Website:** [View Live Prototype via GitHub Pages](https://lorimart.github.io/project-03)
+* **Live Website via GitHub Pages:** [Visit 'The Mana Potion Lounge' Website](https://lorimart.github.io/project-03)
 * **Project Documentation:** [Browse the docs/ Folder](./docs/)
 
 ### Project Overview
